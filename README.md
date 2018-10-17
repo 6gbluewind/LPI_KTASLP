@@ -21,7 +21,7 @@ The leave one out cross-validation demo is "sample1_loo.m"
 * Benchmark dataset is illustrated in [1]. This dataset contains 4158 lncRNA-protein interactions, 990 lncRNAs and 27 proteins.
 
 ### Result
-AUC.fig, AUPR_loo, AUC_loo.fig, AUPR.fig and results_TKA_LapMFsum.mat are the outcomes. <br />
+AUC.fig, AUPR_loo.fig, AUC_loo.fig, AUPR.fig and results_TKA_LapMFsum.mat are the outcomes. <br />
 Also, we give the case study results in local_cases folder.
 
 ### References:
