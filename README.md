@@ -1,5 +1,5 @@
 # LPI_KTASLP
-## Method for identifying lncRNA-protein interaction with Kernel Target Alignment based on Semi-supervised Link Prediction Identifying LncRNA-Protein Interaction with Kernel Ridge Regression based on Fast Kernel Learning
+## Method for identifying lncRNA-protein interaction with Kernel Target Alignment based on Semi-supervised Link Prediction
 
 Input: The similarity of lncRNAs and the similarity of proteins are presented in the form of matrices,<br />
        Gauss similarity matrix is constructed by the kernel_gip.m,<br />
